@@ -5,9 +5,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-# nvidia_cuda_12.2.0-devel-ubuntu22.04
-nvidia_cuda_12.2.0-devel-ubuntu22.04
-
 # ubuntu20
 ubuntu:20.04
 ubuntu/python:3.8-20.04_stable
+
+# nvidia_cuda_12.2.0-devel-ubuntu22.04
+nvidia_cuda_12.2.0-devel-ubuntu22.04
