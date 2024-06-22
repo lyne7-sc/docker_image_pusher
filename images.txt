@@ -9,5 +9,5 @@ xhofe/alist:latest
 ubuntu:20.04
 ubuntu/python:3.8-20.04_stable
 
-# nvidia_cuda_12.2.0-devel-ubuntu22.04
-nvidia_cuda_12.2.0-devel-ubuntu22.04
+# pytorch2-cuda
+mortals/codeenv:pytorch2.0-cuda12.0
